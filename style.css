@@ -1,12 +1,12 @@
 .accordion-item {
-    border: 1px solid #ccc;
+    border: 1px solid #a22ec5;
     border-radius: 5px;
     margin-bottom: 10px;
   }
   
   .accordion-header {
-    background-color: #f7f7f7;
-    color: #333;
+    background-color: #1e9fb9;
+    color: #a53636;
     cursor: pointer;
     padding: 10px;
   }
