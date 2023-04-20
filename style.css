@@ -14,5 +14,7 @@
   .accordion-content {
     display: none;
     padding: 10px;
+    background-color: #a22ec5;
+    border: 1px solid #ffffff;
   }
   
